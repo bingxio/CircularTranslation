@@ -1,0 +1,10 @@
+quality
+quantity
+quarter
+question
+queue
+quick
+quiet
+quit
+quite
+quiz
